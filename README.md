@@ -27,7 +27,7 @@ You can find examples of ORD in [examples.xml](src/examples.xml)
 
 ### How to Open Examples
 
-### Open in Web Application
+#### Open in Web Application
 
 1. Open [examples.xml](src/examples.xml) file
 2. Open the file as "Raw" and copy the URL of this file
@@ -36,7 +36,7 @@ You can find examples of ORD in [examples.xml](src/examples.xml)
    * File -> Open From -> URL
 5. Enjoy!
 
-### Open in Desktop Application
+#### Open in Desktop Application
 
 1. Download [examples.xml](src/examples.xml)
 2. Run `draw.io` dektop application
