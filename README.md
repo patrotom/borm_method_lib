@@ -1,4 +1,4 @@
-# Business and Object RelaMon Modelling (BORM) library for draw.io
+# Business Object Relationship Modeling (BORM) library for draw.io
 
 Library implements `Objects Relations Diagram (ORD)`.
 
@@ -47,6 +47,10 @@ You can find examples of ORD in [examples.xml](src/examples.xml)
 ## List of Shapes
 
 ![shapes](shapes/shapes.svg)
+
+## Issues
+
+If you find any issues with the library, do not hesitate to report them directly via this [repository's issue manager](https://github.com/patrotom/borm_method_lib/issues).
 
 ## Author
 
